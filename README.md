@@ -1,4 +1,4 @@
-# Django survey
+# Fork of Django survey
 
 A django survey app, based on and compatible with "django-survey".
 You will be able to migrate your data from an ancient version of
