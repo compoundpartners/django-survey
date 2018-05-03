@@ -1,0 +1,6 @@
+{
+    "package-name": "django-survey",
+    "installed-apps": [
+        "django_survey"
+    ]
+}
