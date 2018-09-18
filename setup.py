@@ -30,7 +30,7 @@ setup(
         "Topic :: Utilities",
         "Environment :: Web Environment",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: GNU Affero General Public License v3",
+        "License :: OSI Approved :: GNU Lesser General Public License v3",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 2.7",
         'Programming Language :: Python :: 3',
@@ -44,6 +44,5 @@ setup(
     extras_require={
         'dev': ["django-rosetta", "pylint", "coverage", "mock"],
     },
-    include_package_data=True,
     zip_safe=False,
 )
