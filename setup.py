@@ -15,7 +15,7 @@ def add_package(package_list, package):
 
 setup(
     name='django-survey',
-    version=__version__,
+    version='0.0.2',
     description=open('README.md').read(),
     author='Compound Partners Ltd',
     author_email='hello@compoundpartners.co.uk',
